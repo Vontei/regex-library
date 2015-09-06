@@ -7,4 +7,4 @@ console.log(result)
 
 
 
-///Resul => [ 'f', 'm', 'm', 'p', '3', 'h', 'l', 'l' ]
+///Result => [ 'f', 'm', 'm', 'p', '3', 'h', 'l', 'l' ]
