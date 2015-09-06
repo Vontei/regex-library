@@ -6,6 +6,8 @@ Each one has an executable example attached.
 
 The list includes:
 * Vowel Removal
-*
+
+
+
 
 ®Vontei
